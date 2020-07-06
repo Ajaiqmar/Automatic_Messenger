@@ -6,4 +6,6 @@ NOTE:
 Check whether you have downloaded python3 module onto the system and that you have downloaded pywhatkit library function onto the system.
 
 * pip install pywhatkit
-* git clone 
+* git clone https://github.com/Ajaiqmar/Automatic_Messenger.git
+* cd Automatic_messenger
+* python3 automatic_messenger.py.
